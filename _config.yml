@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSW8 (W22) # displayed over the sidebar
-tagline: CSW 8: Introduction to Computer Science # Shown as a title
+title: CSW8 W22 # displayed over the sidebar
+tagline: CSW 8 - Introduction to Computer Science # Shown as a title
 description: Winter 2022 with Prof. K
 author: Yekaterina Kharitonova
 baseurl: '/w22' # the subpath of your site, e.g. /blog
@@ -28,13 +28,15 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Piazza:
+    - 'https://piazza.com/'
   Gauchospace:
     - 'https://gauchospace.ucsb.edu'
   Gradescope:
     - 'http://gradescope.com'
   GitHub:
     - 'https://github.com/ucsb-csw8/w22'
-footer_content: 'Yekaterina Kharitonova &copy; 2021 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Yekaterina Kharitonova &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:

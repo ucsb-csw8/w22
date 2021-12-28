@@ -1,24 +1,24 @@
 ---
-title: Week 2
+title: Week 3
 ---
-Jan 10
+Jan 17
 : [](#)
 
-Jan 11
+Jan 18
 : [](#)
 
-Jan 12
+Jan 19
 : [](#)
 
-Jan 13
+Jan 20
 : [](#)
 
-Jan 14
+Jan 21
 : [](#)
 
-Jan 15
+Jan 22
 : [](#)
 
-Jan 16
+Jan 23
 : [](#)
 

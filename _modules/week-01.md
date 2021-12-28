@@ -1,23 +1,24 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
+Jan 3
+: [](#)
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 4
+: [](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jan 5
+: [](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Jan 6
+: [](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Jan 7
+: [](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jan 8
+: [](#)
+
+Jan 9
+: [](#)
+

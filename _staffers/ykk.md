@@ -2,7 +2,7 @@
 name: Prof. K (Yekaterina Kharitonova)
 role: Instructor
 pronouns: she/they
-photo: /assets/images/ykk-avatar.png
+photo: ykk-avatar.png
 ---
 
 [Schedule an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFjZExlYWxLMkdRfGRlZmF1bHR8NTZmMGZmY2IyYjFmZTVmMmNmNWQ0YmUxZjQ2MWUwOGY){: .btn .btn-outline }

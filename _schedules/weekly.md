@@ -24,6 +24,7 @@ timeline:
   - '7:30 PM'
 schedule:
   - name: Monday
+    events:
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
@@ -73,6 +74,7 @@ schedule:
         end: 4:50 PM
         location: Zoom
   - name: Thursday
+    events:
       - name: Lecture
         start: 9:30 AM
         end: 10:45 AM

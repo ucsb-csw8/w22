@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: About Us
+description: A listing of all the course members.
 ---
 
 # Staff
-
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
 ## Instructors
 
@@ -21,6 +19,15 @@ Staff information is stored in the `_staffers` directory and rendered according 
 ## Teaching Assistants
 
 {% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+{% assign learning_assistants = site.staffers | where: 'role', 'Undergraduate Learning Assistant' %}
+{% assign num_learning_assistants = learning_assistants | size %}
+{% if num_learning_assistants != 0 %}
+## Undergraduate Learning Assistants
+
+{% for staffer in learning_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}

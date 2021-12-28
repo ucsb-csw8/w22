@@ -1,3 +1,9 @@
+.DS_Store
+*.swp
+*.py[cod]
+__pycache__/
+
+
 *.gem
 .bundle/
 .jekyll-cache/

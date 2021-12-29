@@ -1,8 +1,7 @@
 ---
 name: Saikumar Yadugiri
 pronouns: He/Him/His
-role: Undergraduate Learning Assistant
-ula_for: CS X
+role: Teaching Assistant
 photo: Saikumar-Yadugiri.jpg
 ---
 

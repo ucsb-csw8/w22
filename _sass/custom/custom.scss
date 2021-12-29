@@ -8,6 +8,15 @@
 @import 'staffer';
 
 // Overrides
+
+$link-color: #4682b4 !important;
+.label-orange { background-color: #f57c00; }
+.label-blue { background-color: #0288d1; }
+.label-green { background-color: #56b157; }
+//.label-purple { background-color: #9696fe; }
+.label-purple { background-color: #a6a6ed; }
+ // https://www.color-hex.com/color-palette/8713
+
 a abbr[title] {
   border-bottom: none;
 }

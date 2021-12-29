@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 1 - Introduction to Python 3
 ---
 Jan 3
 : [](#)

@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About Us
+title: Who We Are
 description: A listing of all the course members.
 ---
 
-# Staff
+# Mentors
+
+We (the Teaching Assistants (TAs), Undergraduate Learning Assistants (ULAs) and Prof. K) are what we will collectively refer to as "The Mentors". We look forward to helping you learn and succeed in this class and beyond.
 
 ## Instructors
 

@@ -19,7 +19,7 @@ A typical course expects that you will engage with the course material about 3-4
 * 2-4 hours reading the book and working on participation/homework activities, preparing for quizzes; we recommend adding these review/study blocks to your calendar and treating them as an appointment.
 * 1 hour of scheduled lab to work with mentors and/or your lab partner
 * 2-4 hours outside of lab to finish the lab; make sure you work on it a few days before the deadline, so that you have enough time to get help if you get stuck.
-* 1-2 hours participating on Piazza / debugging / attending office hours (see the [posted schedule](#))
+* 1-2 hours participating on the forum / debugging / attending office hours (see the [posted schedule](../schedule))
 
 
 ## Roadmap
@@ -27,27 +27,28 @@ In our course, each week covers roughly 1 chapter, and we have the following cou
 
 | Day | Due | Recommended Activity |
 |---|-----|----------------------|
-|     |     | **Async activity**: Read the book, and work on/finish PA |
-|  Tue|9AM, PAs| **Class 1**: Synchronous activities.|
-|     |     | **Async activity**: Work on/finish related LA and HW |
-| Wed | 9AM, LAs | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. In weeks 6 through 10, students work on the projects in pairs. |
-|     |     | **Async activity**: Work on/finish related LA and HW |
-| Thu |     | **Class 2**: Synchronous activities |
-|     |     | **Async activity**: Review concepts, work on/finish related HW and LA |
-| Sat | 9AM, HW | |
-| | | **Async activity**: Read the book, review concepts, and work on/finish PA and LA |
+|     |     | **Async activity**: Read the book, and work on/finish PA in zybooks _before_ the first lecture of the week; prepare/review the questions to ask; prep for quiz. |
+|  Tue| 9AM: PAs, CAs | **Class 1**: Synchronous activities. Join the class via Zoom and be prepared to ask questions or ask for clarifications and additional examples, and to work with your classmates. Be ready for a possible pop-quiz. |
+|     |     | **Async activity**: Work on/finish related CAs and LAs |
+| Wed | 9AM: LAs | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. Students have until _next week_ to finish/submit the LA. |
+|     |     | **Async activity**: Work on/finish related CA and LA in zybooks |
+| Thu |     | **Class 2**: Synchronous activities. Join the class via Zoom and ask questions or ask for clarifications and additional examples and/or review the quiz questions. Be prepared to work with your classmates. Be ready for a possible pop-quiz. |
+|     |     | **Async activity**: Review concepts, work on/finish related CA and LA |
+| Sat |     | **Async activity**: Finish the Weekly reflection - review the past week, reflect on your learning, provide feedback, note any lingering questions. |
+| Sun | 9PM: PA, CA, LA | **Async activity**: Read the book, review concepts, and work on/finish PA, CA, and LA |
 
 
-✨ Pro Tip✨ : We recommend spending no more than 2 hours in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions.
+✨ Pro Tip✨ : _**Do not try to complete all chapter sections in one sitting**_! We recommend spending **no more than 2 hours** in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions. 
+Also, **do not debug the same problem for more than 1 hour in a row**. If you are unable to figure out why things are not working, ask for help on the forum or during the office hours. See more suggestions in the [Workflow](#workflow) section below.
 
-✨ Pro Tip✨ : We recommend reading through the sections and completing the PAs as you read. After you finished reading the chapter, come back to complete the CAs in each section. If possible, finish most CAs _before_ you join the labs.
+✨ Pro Tip✨ : We recommend reading through the sections and completing the PAs as you read. _After you finished reading the chapter_, come back to complete the CAs in each section. Please, finish most CAs _before_ you join the labs.
 
 -----
 
 
 # General Guidelines on How to Succeed in a Computing Course
 
-In short: read carefully, practice your understanding of concepts on lots of examples, constantly review the material, seek help when lost, have patience, and enjoy the process.
+In short: 📖 read carefully, ✍️  practice your understanding of concepts on lots of examples, ⭐ constantly review the material, ❓seek help when lost, have patience 🙏,, and enjoy the process 😃🤯✌️ .
 
 * Read the syllabus and keep track of deadlines
     * labs and homeworks are usually due on specific days at a specific time
@@ -87,7 +88,7 @@ In short: read carefully, practice your understanding of concepts on lots of exa
     * review the concepts that made the lab challenging by running through examples in the book and/or homework
     * begin working on the lab as soon as it is posted and try to finish it as soon as possible so that you have time to ask for help during class/open labs/office hours before it is due.
 
-* Experiment, experiment, and play around with code
+* Experiment, experiment some more, and play around with code
 	* Whenever you have a question, you should try testing it yourself 
 	* Use <http://pythontutor.com/> to run and visualize Python code in the browser (you can also use <https://www.onlinegdb.com/> and switch the language to Python)
 	* Use the examples from class/homework/labs and come up with your own scenarios and see if you can write code for them (e.g., if the homework asks you to output values using a `range(0, 3)`, see what happens if you change the starting or the ending point; is there anything else you can change?)

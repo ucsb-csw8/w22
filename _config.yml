@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CSW8 W22 # displayed over the sidebar
-tagline: CSW 8 - Introduction to Computer Science # Shown as a title
+tagline: CSW 8 - Introduction to Computer Science # Shown as a title on the page
 description: Winter 2022 with Prof. K
 author: Yekaterina Kharitonova
 baseurl: '/w22' # the subpath of your site, e.g. /blog
@@ -28,12 +28,14 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  zyBooks:
+    - 'https://learn.zybooks.com/zybook/UCSBCMPSCW8KharitonovaWinter2021'
   Piazza:
-    - 'https://piazza.com/'
+    - 'https://piazza.com/class/kxyw0ft3mjl78d'
   Gauchospace:
-    - 'https://gauchospace.ucsb.edu'
+    - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=1138'
   Gradescope:
-    - 'http://gradescope.com'
+    - 'https://www.gradescope.com/courses/345448'
   GitHub:
     - 'https://github.com/ucsb-csw8/w22'
 footer_content: 'Yekaterina Kharitonova &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'

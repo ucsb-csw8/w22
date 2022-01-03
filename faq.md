@@ -8,20 +8,30 @@ seo:
 ---
 
 # Frequently Asked Questions (FAQ) in CSW 8
+{:.no_toc}
 
 Hello and welcome to CSW 8!
 
 Below are a few notes that can help you get oriented in the course and address a few commonly asked questions.
 
-**Please read the Syllabus first.**
+**Please read the [Syllabus](../about) first.**
 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 
 ## Administrative
 
-### Is CS 8 and CSW 8 different?
+### Is CS 8 and CSW 8 different? Does this course count the same as CS 8?
 
 Content-wise this is the same course, the "W" in the title indicates that the course is on the Web, i.e., online.
+Both courses count as the same course.
 
 
 ### Is CSW 8 going to be asynchronous?
@@ -36,9 +46,34 @@ That being said, to help you learn and review the material, we plan to record th
 
 Please see the answer above and the ["Attendance"](#attendance) section below for more information.
 
+
+### Do labs happen during the section time?
+
+Yes, the **Wednesday** section time that you are enrolled in is the lab time.
+
+
+### How do we check when our lab is?
+
+Check your schedule on [GOLD](https://my.sa.ucsb.edu/gold/login.aspx).
+
+
+### Can I change/switch my lab section?
+
+Yes, you are welcome to attend whichever lab section works with your schedule. No need to get a new add code and switch it on GOLD. Just make sure that when you are registering for your zyBook, you **select the section that you are _going to be attending_**.
+
+
+### Are lab activities and lab sessions not the same thing?
+
+We refer to the Wednesday lab section times as _lab sessions_. The _lab activities_ (LAs) that you complete in zyBooks are different from the session times, since they refer to the lab assignments posted in zyBooks.
+
 ---
 
 ## zyBooks
+
+### Where do I find the zyBooks code to subscribe to the book?
+
+The access/enrollment code is posted on Gauchospace.
+
 
 ### Is there an option for students who cannot currently afford the zybook subscription? Can I defer the purchase of the zyBook?
 
@@ -50,7 +85,7 @@ You can also use the same link to request a two-week free trial of the zyBook su
 
 
 
-### What do the PA, CA and LA mean on the zybook, where are they found? How do I know when they are completed?
+### What do the PA, CA and LA mean on the zybook, where are they found? How can we know our progress there? How do I know when they are completed?
 
 * Participation Activities (PAs) 
 * Challenge Activities (CAs) 
@@ -58,9 +93,11 @@ You can also use the same link to request a two-week free trial of the zyBook su
 
 PAs, CAs, LAs, are all found inside the respective sections of the zyBook for this course.
 
-There's no need to submit the activities anywhere else, just complete them in zyBooks. For PAs and CAs, you will see a checkmark to the right of the title for that activity, once the activity has been properly completed. For LAs, you will see the score for how many tests for correctness of that lab have passed. Once you see 100%, you have effectively completed that lab.
+There's no need to submit the activities anywhere else, just complete them in zyBooks. 
+* For PAs and CAs, you will see a checkmark to the right of the title for that activity, once the activity has been properly completed. 
+* For LAs, you will see the score for how many tests for correctness of that lab have passed. Once you see 100%, you have effectively completed that lab.
 
-You can also see the overall completion of each of the zyBook activities when you are on the main page of the zyBook (the view that lists all chapters and their sections).
+You can also see the **overall completion** of _each_ of the zyBook activities when you are on the main page of the zyBook (the view that lists all chapters and their sections).
 
 ✨ Pro Tip✨ : We recommend spending no more than 2 hours in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions.
 
@@ -74,15 +111,23 @@ You can also see the overall completion of each of the zyBook activities when yo
 Yes, this is our main communication platform. Guidelines for how to use it are in the Syllabus and in the _Posting Guidelines_ note on Piazza itself. See more information in the ["Communication" section](#communication) below.
 
 
-### I do not see CSW 8 course on Gradescope and/or Piazza. What can I do?
+### Is there a code for Piazza?
 
-Everyone will be added to these sites on Friday, once the enrollment is finalized and the waitlist for the course is closed.
+No need to enter any code. 
+Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
+
+### I do not see CSW 8 course on Gradescope and/or Piazza. What can I do?
 
 Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
 
 ---
 
 ## Course Components
+
+### Do we have to download python for this class?
+
+Yes. We will spend the first couple of weeks working within zyBooks and then we will ask you to [Download the latest version from python.org](https://www.python.org/).
+
 
 ### What will the reflection be like and how long do they take?
 
@@ -94,22 +139,29 @@ The reflection usually shouldn't take you more than 30 minutes to complete. The 
 There will be at least one practice quiz, which doesn't count toward your grade because it is just for practice, and one to two graded pop-quizzes. See additional notes in the ["Quizzes" section](#quizzes) below.
 
 
-### I missed a quiz. What do I do?
+### I missed a quiz/an in-class activity/a deadline. What do I do?
 
-Since we do not offer any make-up quizzes or give extensions, the Syllabus outlines our lowest quiz score drop policy to account for any unexpected situations. Please, don't contact us about it unless you have a **_documented_ emergency**.
+Since we do not offer any make-up quizzes/assignments, the [Syllabus](../about) outlines our lowest quiz score drop policy to account for any unexpected situations. Please, don't contact us about it unless you have a **_documented_ emergency**.
 
 In cases of **_documented_ emergency**, please, email _directly_ to the professor and provide the documentation that shows your name, the reason, and the date of the incident. 
 
+See the [Due Dates](#due-dates) section below for more information about the zyBooks activities.
 
 
 
 ## Weekly Pattern and Planning Your Work
 
-This course has a consistent weekly pattern to help you manage your workload and help you set a consistent schedule for this class. Set those dates and reminders on your calendar to proactively keep track of the assignments and quizzes yourself.
+### Due Dates
+
+This course has a consistent weekly pattern to help you manage your workload and help you set a consistent schedule for this class. Set those dates and reminders on your calendar to proactively keep track of the assignments yourself.
+
+Tuesdays and Wednesdays are when the zyBooks activities are expected to be completed. We recommend treating them as **hard deadlines** and finishing your work in zyBooks **_before_** those recommended times. In-class quizzes and activities will assume that you have completed the materials. However, in order to provide extra flexibility, we will collect the scores for the respective activities on **Sundays at 9pm**.
+
+If you know in advance that you will not be able to complete the activities before Sunday, you can submit a request for an extension. See the [Syllabus](../about) for more information. 
 
 ### Quizzes
 
-You should attend every class, ready to take a quiz. We will periodically have unannounced quizzes, which will always be posted on Gauchospace: they will usually be 10-15 minutes and will cover the material that you were supposed to read and work with up to that week. They are intended for you to check how well you are following the explanations in zyBooks, and some questions will be similar to the PAs, CAs, and LAs in the book. Quizzes are supposed to be done _individually_ and are meant to ensure that you are keeping up with the reading and are able to use course concepts.
+You should attend every class, ready to take a quiz. We will periodically have unannounced pop-quizzes, which will always be posted on Gauchospace: they will usually be 10-15 minutes and will cover the material that you were supposed to read and work with up to that week. They are intended for you to check how well you are following the explanations in zyBooks, and some questions will be similar to the PAs, CAs, and LAs in the book. Quizzes are supposed to be done _individually_ and are meant to ensure that you are keeping up with the reading and are able to use course concepts.
 
 Quizzes will vary in style: they will always **start on Gauchospace** but sometimes, the quiz will redirect you to Gradescope, after randomly assigning you a quiz version.
 * The quiz on Gauchospace is going to consist of randomly selected multiple-choice and short-answer questions, which will check your understanding of the reading, similar to the PAs and CAs in the book. 
@@ -122,7 +174,7 @@ After the quiz grades have been posted, you will be able to review them with the
 
 ### Attendance
 
-Synchronous class time and lab section attendance are required. We will have quizzes and participation activities during the scheduled class, so having a conflict with another class/activity might jeopardize your ability to participate and affect your grade.
+Synchronous class time and lab section attendance are **required**. We will have quizzes and participation activities during the scheduled class, so having a conflict with another class/activity might jeopardize your ability to participate and affect your grade.
 
 Whenever possible/reasonable, we will record those sessions and post them on Gauchospace (under that Week's tab) for you to review/refer to them. These recordings are not a substitute for your participation.
 
@@ -164,6 +216,8 @@ This should be your first place to check if you have a question. If you don't fi
 It is your responsibility to make sure that you check and keep up with the information that we post. We hope that you will also participate in the exchanges on the forum and help us create a supportive and collaborative environment where everyone is comfortable asking questions and experimenting with the powerful programming concepts that we will be using in this class.
 
 As mentioned in the syllabus, you should use the forum for all course-related questions, however, if you ever need to send the professor a direct email with the required documentation, make sure to **include "CSW8" in the subject**, and if there is a follow-up, _keep it in the **same** email thread_ (i.e., use "Reply" instead of starting a separate email). Due to a large volume of emails, if you do not follow these guidelines, your email might not be even seen. 
+
+---
 
 #### I have a question that has not been addressed here. What should I do?
 

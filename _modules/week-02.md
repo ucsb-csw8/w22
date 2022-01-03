@@ -23,5 +23,5 @@ Jan 15
 : [](#)
 
 Jan 16
- : **09:00pm** ⏰  **DUE:**{: .label .label-red }Reflection + **PA02**{: .label .label-orange }+**CA01**{: .label .label-blue }+**LA01**{: .label .label-green } 
+ : **09:00pm** ⏰  **DUE:**{: .label .label-red }Reflection + **PA01**{: .label .label-orange }+**PA02**{: .label .label-orange }+**CA01**{: .label .label-blue }+**LA01**{: .label .label-green } 
 

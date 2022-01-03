@@ -33,7 +33,7 @@ You'll attend class and lab/discussion online via Zoom during specified times, j
 
 **Professor**: Yekaterina Kharitonova  / Prof K (pronouns: she/they)
 
-**Course mentors** (TAs / ULAs): see [more info here](../staff); office hours are [linked here](../schedule).
+**Course mentors** (TAs / ULAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
 
 **Class time**: Tuesday and Thursday, 9:00am--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
 
@@ -41,7 +41,7 @@ You'll attend class and lab/discussion online via Zoom during specified times, j
 
 ### Textbook
 1. Create an account at [zyBooks.com](https://www.zybooks.com),
-2. Purchase a subscription as described on Gauchospace.
+2. Purchase a subscription [as described on Gauchospace](https://gauchospace.ucsb.edu/courses/mod/page/view.php?id=638300&forceview=1).
 
 > Make sure to use your <span style="color:red">**7-digit student ID _without_ any dashes or spaces** (ONLY digits)</span>. (⚠️  <span style="color:orange">_You might fail the course if this ID is incorrectly entered._</span>)
 
@@ -84,7 +84,7 @@ Final course grade: 90/80/70/60 scale, with +/- grades. Note that A+ is given at
 
 > **LAs** for the week due **before** the next-week <span style="color:green">Wednesday 9am</span>
 
-Deadlines for all activities are available on Gauchospace (and are listed on the [Calendar](../calendar)). 
+Deadlines for all activities are available on Gauchospace (and are listed on the [Calendar]({{site.url}}/{{site.baseurl}}/calendar)). 
 
 <span style="color:green">There are hard deadlines **every Sunday at 9pm** beyond which we **will not accept late submissions**.</span>
 During the quarter, you can request an extension for the zyBook activities (we can offer extension only for the zyBooks activities) - see more information [below](#request-for-accommodations).
@@ -118,7 +118,7 @@ Assignments allow you to practice skills and concepts, and prepare you for quizz
 If you have doubts or questions about what is allowed, please ask us via the forum.
 Rather than copying someone else's work, ask for help. You are not alone in this course! We are here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
-🌟 We provide you with a set of notes on [How to Succeed in this or any other computing course](../success), and we are available to help you on the forum and during class and office hours, so that you can learn and do your work effectively and efficiently.
+🌟 We provide you with a set of notes on [How to Succeed in this or any other computing course]({{site.url}}/{{site.baseurl}}/success), and we are available to help you on the forum and during class and office hours, so that you can learn and do your work effectively and efficiently.
 
 ### Copyright of Course Materials
 The course materials for this course, including videos, PowerPoint presentations, tests, outlines, and similar materials, are protected by the U.S. copyright law and [the University policy](https://copyright.universityofcalifornia.edu/resources/recorded-presentations.html). The instructor is the exclusive [owner of the copyright](https://copyright.universityofcalifornia.edu/resources/ownership-course-materials.html) in those materials, unless stated otherwise. You may take notes and make copies of course materials _for your own use_. 

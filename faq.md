@@ -14,7 +14,7 @@ Hello and welcome to CSW 8!
 
 Below are a few notes that can help you get oriented in the course and address a few commonly asked questions.
 
-**Please read the [Syllabus](../about) first.**
+**Please read the [Syllabus]({{site.url}}/{{site.baseurl}}/about) first.**
 
 
 ## Table of contents
@@ -72,7 +72,13 @@ We refer to the Wednesday lab section times as _lab sessions_. The _lab activiti
 
 ### Where do I find the zyBooks code to subscribe to the book?
 
-The access/enrollment code is posted on Gauchospace.
+The access/enrollment code is [posted on Gauchospace](https://gauchospace.ucsb.edu/courses/mod/page/view.php?id=638300).
+
+
+### How do I update my student ID in zyBooks?
+
+You can do it from the **My Subscription** tab, which you can access from the main zyBooks page that lists all chapters.
+See the instructions / screenshot [posted on Gauchospace](https://gauchospace.ucsb.edu/courses/mod/page/view.php?id=638300).
 
 
 ### Is there an option for students who cannot currently afford the zybook subscription? Can I defer the purchase of the zyBook?
@@ -141,7 +147,7 @@ There will be at least one practice quiz, which doesn't count toward your grade 
 
 ### I missed a quiz/an in-class activity/a deadline. What do I do?
 
-Since we do not offer any make-up quizzes/assignments, the [Syllabus](../about) outlines our lowest quiz score drop policy to account for any unexpected situations. Please, don't contact us about it unless you have a **_documented_ emergency**.
+Since we do not offer any make-up quizzes/assignments, the [Syllabus]({{site.url}}/{{site.baseurl}}/about) outlines our lowest quiz score drop policy to account for any unexpected situations. Please, don't contact us about it unless you have a **_documented_ emergency**.
 
 In cases of **_documented_ emergency**, please, email _directly_ to the professor and provide the documentation that shows your name, the reason, and the date of the incident. 
 
@@ -157,7 +163,7 @@ This course has a consistent weekly pattern to help you manage your workload and
 
 Tuesdays and Wednesdays are when the zyBooks activities are expected to be completed. We recommend treating them as **hard deadlines** and finishing your work in zyBooks **_before_** those recommended times. In-class quizzes and activities will assume that you have completed the materials. However, in order to provide extra flexibility, we will collect the scores for the respective activities on **Sundays at 9pm**.
 
-If you know in advance that you will not be able to complete the activities before Sunday, you can submit a request for an extension. See the [Syllabus](../about) for more information. 
+If you know in advance that you will not be able to complete the activities before Sunday, you can submit a request for an extension. See the [Syllabus]({{site.url}}/{{site.baseurl}}/about) for more information. 
 
 ### Quizzes
 

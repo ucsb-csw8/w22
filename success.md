@@ -19,7 +19,7 @@ A typical course expects that you will engage with the course material about 3-4
 * 2-4 hours reading the book and working on participation/homework activities, preparing for quizzes; we recommend adding these review/study blocks to your calendar and treating them as an appointment.
 * 1 hour of scheduled lab to work with mentors and/or your lab partner
 * 2-4 hours outside of lab to finish the lab; make sure you work on it a few days before the deadline, so that you have enough time to get help if you get stuck.
-* 1-2 hours participating on the forum / debugging / attending office hours (see the [posted schedule](../schedule))
+* 1-2 hours participating on the forum / debugging / attending office hours (see the [posted schedule]({{site.url}}/{{site.baseurl}}/schedule))
 
 
 ## Roadmap

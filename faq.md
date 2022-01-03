@@ -75,6 +75,11 @@ We refer to the Wednesday lab section times as _lab sessions_. The _lab activiti
 The access/enrollment code is [posted on Gauchospace](https://gauchospace.ucsb.edu/courses/mod/page/view.php?id=638300).
 
 
+### Do I have to buy the book if I am re-taking the class?
+
+Contact support@zybooks.com and let them know that you are retaking the course: they should be able to waive your fee.
+
+
 ### How do I update my student ID in zyBooks?
 
 You can do it from the **My Subscription** tab, which you can access from the main zyBooks page that lists all chapters.

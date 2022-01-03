@@ -35,7 +35,7 @@ You'll attend class and lab/discussion online via Zoom during specified times, j
 
 **Course mentors** (TAs / ULAs): see [more info here]({{site.url}}/{{site.baseurl}}/staff); office hours are [linked here]({{site.url}}/{{site.baseurl}}/schedule).
 
-**Class time**: Tuesday and Thursday, 9:00am--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
+**Class time**: Tuesday and Thursday, 9:30--10:45am PT (Pacific/California time), synchronously on Zoom (the link is posted on Gauchospace)
 
 ---
 

@@ -6,7 +6,7 @@ Jan 10
 : [](#)
 
 Jan 11
- : 09:00am **PA02**{: .label .label-orange }and **CA01**{: .label .label-blue }are expected to be done
+ : 09:00am **PA01**{: .label .label-orange },**PA02**{: .label .label-orange }and **CA01**{: .label .label-blue }are expected to be done
  : 09:30am **Class**{: .label .label-purple }
 
 Jan 12

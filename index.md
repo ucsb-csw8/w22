@@ -35,7 +35,10 @@ _Before the first day of class_
 - Read [How to Succeed in CSW 8]({{site.url}}/{{site.baseurl}}/success)
 - Add the [weekly pattern/deadlines to your calendar]({{site.url}}/{{site.baseurl}}/success/#roadmap)
 - Fill out the **Welcome Survey** linked on Gauchospace.
+
+_Next steps_
 - Start reading Chapters 1 and 2 on zyBooks
+- Attend the syncronous class
 
 
 <!--

@@ -23,9 +23,9 @@ _Last major revision: Jan 3, 2022_
 Introduction to computer program development is for students with little to no programming experience. Basic programming concepts, variables and expressions, data and control structures, algorithms, debugging, program design, testing, and documentation. Note: Programming is concepts + skill, and skill requires <span style="color:green">**practice**</span>.  Many of you will find this class to be different from classes you've taken before.
 
 ### Online class
-See Gauchospace (Try the zoom link before the first day; bookmark it for easy access).   
+See Gauchospace (Try the Zoom link before the first day; bookmark it for easy access).   
 
-You'll attend lectures and lab/discussion online via Zoom during specified times, just like a physical class. Lectures and labs **require synchronous interactions and active participation**.
+You'll attend class and lab/discussion online via Zoom during specified times, just like a physical class. Class time and labs **require synchronous interactions and active participation**.
 
 **Required**: Computer/tablet access (_**not** smartphone_) with headphones, fast Internet, non-distracting area (not coffeeshop). You'll watch/listen to live video/audio, interact with classmates, and type to chat or code.  
 
@@ -78,7 +78,7 @@ Final course grade: 90/80/70/60 scale, with +/- grades. Note that A+ is given at
 ### Course structure and deadlines
 
 <span style="color:green">Each week covers one chapter in zyBooks</span>. Due each week (always, at <span style="color:green">9 o’clock</span>):
-> **PAs** for the week are due **before** the 1st lecture <span style="color:green">Tuesday 9am</span> (Week 1 is the exception, they are due along with the PAs for Week 2)
+> **PAs** for the week are due **before** the 1st class of the week <span style="color:green">Tuesday 9am</span> (Week 1 is the exception, they are due along with the PAs for Week 2)
 
 > **CAs** for the week are due **before** the next-week <span style="color:green">Tuesday 9am</span>
 
@@ -121,9 +121,9 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 🌟 We provide you with a set of notes on [How to Succeed in this or any other computing course](../success), and we are available to help you on the forum and during class and office hours, so that you can learn and do your work effectively and efficiently.
 
 ### Copyright of Course Materials
-The lectures and course materials for this course, including PowerPoint presentations, tests, outlines, and similar materials, are protected by the U.S. copyright law and [the University policy](https://copyright.universityofcalifornia.edu/resources/recorded-presentations.html). The instructor is the exclusive [owner of the copyright](https://copyright.universityofcalifornia.edu/resources/ownership-course-materials.html) in those materials, unless stated otherwise. You may take notes and make copies of course materials _for your own use_. 
+The course materials for this course, including videos, PowerPoint presentations, tests, outlines, and similar materials, are protected by the U.S. copyright law and [the University policy](https://copyright.universityofcalifornia.edu/resources/recorded-presentations.html). The instructor is the exclusive [owner of the copyright](https://copyright.universityofcalifornia.edu/resources/ownership-course-materials.html) in those materials, unless stated otherwise. You may take notes and make copies of course materials _for your own use_. 
 
-You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials — whether or not a fee is charged — without the instructor's express prior written consent. You also may not allow others to do so.
+You may not reproduce, distribute or display (post/upload) class notes or recordings or course materials — whether or not a fee is charged — without the instructor's express prior written consent. You also may not allow others to do so.
 
 If you do so, you may be subject to student conduct proceedings under the UC Santa Barbara Student Code of Conduct.
 

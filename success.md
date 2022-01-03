@@ -27,7 +27,7 @@ In our course, each week covers roughly 1 chapter, and we have the following cou
 
 | Day | Due | Recommended Activity |
 |---|-----|----------------------|
-|     |     | **Async activity**: Read the book, and work on/finish PA in zybooks _before_ the first lecture of the week; prepare/review the questions to ask; prep for quiz. |
+|     |     | **Async activity**: Read the book, and work on/finish PA in zybooks _before_ the first class meeting of the week; prepare/review the questions to ask; prep for quiz. |
 |  Tue| 9AM: PAs, CAs | **Class 1**: Synchronous activities. Join the class via Zoom and be prepared to ask questions or ask for clarifications and additional examples, and to work with your classmates. Be ready for a possible pop-quiz. |
 |     |     | **Async activity**: Work on/finish related CAs and LAs |
 | Wed | 9AM: LAs | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. Students have until _next week_ to finish/submit the LA. |
@@ -35,7 +35,7 @@ In our course, each week covers roughly 1 chapter, and we have the following cou
 | Thu |     | **Class 2**: Synchronous activities. Join the class via Zoom and ask questions or ask for clarifications and additional examples and/or review the quiz questions. Be prepared to work with your classmates. Be ready for a possible pop-quiz. |
 |     |     | **Async activity**: Review concepts, work on/finish related CA and LA |
 | Sat |     | **Async activity**: Finish the Weekly reflection - review the past week, reflect on your learning, provide feedback, note any lingering questions. |
-| Sun | 9PM: PA, CA, LA | **Async activity**: Read the book, review concepts, and work on/finish PA, CA, and LA |
+| Sun | 9PM: PA, CA, LA, Reflection | **Async activity**: Read the book, review concepts, and work on/finish PA, CA, and LA |
 
 
 ✨ Pro Tip✨ : _**Do not try to complete all chapter sections in one sitting**_! We recommend spending **no more than 2 hours** in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions. 

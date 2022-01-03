@@ -184,19 +184,24 @@ When registering for zyBooks, select the lab section that you plan to attend.
 
 ### Getting Help
 
-**_Please, do not email us directly._**
+**_Please, do not email us directly._** Direct emails, especially without the "CSW 8" in the subject, might not be answered.
 
-To make sure that you can always get your questions answered, we have multiple ways for you to reach the instructor and our course mentors:
+To make sure that you can always get your questions answered, we have multiple ways for you to reach the instructor and our course mentors.
 
-* we have synchronous Zoom office hours _every day Monday through Friday in the mornings, afternoons, and evenings_. Note that we do not check or respond to messages over the weekend, so please plan accordingly.
+Below are the main ways for you to ask for help (from fastest to slowest response times). Note that we do not check or respond to messages over the weekend, so please plan accordingly.)
 
-* Prof. K can stay right after the lecture and they are also available to meet with you by appointment: you can book a meeting through a link posted on the office hours page or send an email with the subject "CSW8 Meeting", requesting to meet at a specific time. 
+* class time and lab sessions are the dedicated synchronous times when you can (and should!) ask questions.
 
-* we have an online Q&A forum, Piazza: post your questions there and your classmates can help answer it, otherwise, we will try to respond within 36 hours. (_Please, follow the posted forum guidelines to make it easier for us to respond. We cannot quarantee that last-minute posts before a deadline would receive a timely response, so please **start early** and plan your work accordingly._)
+* Prof. K can stay right after class and can also meet with you by appointment: you can book a meeting through a link posted on the office hours page or send a message to the Instructors on the forum, requesting to meet at a specific time. 
 
-* we have an anonymous form where you can ask questions or send your suggestions: <https://forms.gle/jobjhJjWXsmcV3pp6>
+* we have synchronous Zoom office hours _every day Monday through Friday in the mornings, afternoons, and evenings_. 
 
-* class time and lab sessions are the dedicated synchronous times when you can (and should!) also ask questions.
+* we have an online Q&A forum, Piazza: post your questions there (you can do so anonymously) and your classmates can help answer it, otherwise, we will try to respond within 36 hours.
+    * Please, follow the posted forum guidelines (a pinned post) to make it easier for us to respond. 
+    * We cannot quarantee that last-minute posts before a deadline would receive a timely response, so please **start early** and plan your work accordingly.
+
+* we have a fully-anonymous form where you can ask questions or send your suggestions: <https://forms.gle/jobjhJjWXsmcV3pp6>
+
 
 #### How to ask for help when you don't know what to ask
 

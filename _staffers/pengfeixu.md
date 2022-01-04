@@ -1,7 +1,7 @@
 ---
 name: Pengfei Xu
 pronouns: He/Him/His
-role: Undergraduate Learning Assistant
+role: Teaching Assistant
 ula_for: CS 08
 photo: CS08-W22-Pengfei-XuPX.png
 ---

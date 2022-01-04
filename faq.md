@@ -127,6 +127,9 @@ Yes, this is our main communication platform. Guidelines for how to use it are i
 No need to enter any code. 
 Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
 
+_Note: As was mentioned in the Welcome Email sent from Gauchospace ("Warm welcome to CSW 8 (W22)!"), you will receive an email about being added to Piazza on Tuesday evening, after the first lecture, once we close the waitlist._
+
+
 ### I do not see CSW 8 course on Gradescope and/or Piazza. What can I do?
 
 Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 

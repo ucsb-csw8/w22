@@ -39,6 +39,7 @@ _Before the first day of class_
 _Next steps_
 - Start reading Chapters 1 and 2 on zyBooks
 - Attend the syncronous class
+- You will be added to the course forum (Piazza) and the Gradescope site on Tuesday evening, after the first lecture, once we close the waitlist. In the meantime, you can use the form that's linked on the course website to submit any questions that you have.
 
 
 <!--

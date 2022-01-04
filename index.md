@@ -35,7 +35,7 @@ _Before the first day of class_
 - Subscribe to the e-textbook ([zybooks](https://zybooks.com)) following the instructions posted on the Main tab on Gauchospace.
     - This interactive online textbook is required and the subscription must be purchased _individually_. A large portion of your course grade will depend on the activities that you will complete and submit in this zyBook (pronounced as zEYE-book).
     - After subscribing, we recommend that you go to <https://learn.zybooks.com/library> and read through the “How to Use zyBooks” book.
-    - _Update: Jan 4, 2022_: See [the post on Gauchospace about the expired zyBooks subscription](https://gauchospace.ucsb.edu/courses/mod/forum/discuss.php?d=96073).
+    - _Update: Jan 4, 2022_: ~~See [the post on Gauchospace about the expired zyBooks subscription](https://gauchospace.ucsb.edu/courses/mod/forum/discuss.php?d=96073)~~ See [the post on Gauchospace about the updated zyBooks subscription code](https://gauchospace.ucsb.edu/courses/mod/forum/discuss.php?d=96486) 🎊
 
 _Next steps_
 - Start reading Chapters 1 and 2 on zyBooks

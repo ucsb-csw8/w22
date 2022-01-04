@@ -52,6 +52,8 @@ Please use the Q&A platform **Piazza** to communicate with the Instructor and co
 
 For emergency communications with the Instructor send an email with the <span style="color:green">subject that includes "CSW8"</span> (emails without this subject might not be seen).
 
+We will always use only the official course platforms to reach out to you: posts on Piazza, Gauchospace, Gradescope, and ucsb email. If anyone contacts you through an unofficial channel claiming to be a mentor/instructor, please send a message via Piazza to the Instructors.
+
 ### Course Tools
 We recommend bookmarking the following links:
 * [Gauchospace](http://gauchospace.ucsb.edu) (grades, schedule, weekly reflection, quizzes, relevant course links), 

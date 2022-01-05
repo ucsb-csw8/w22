@@ -60,7 +60,8 @@ We recommend bookmarking the following links:
 * [zybook](https://learn.zybooks.com/library) (PAs, CAs, LAs -- see below), 
 * [Gradescope](https://www.gradescope.com) (quizzes, project), 
 * [Piazza](https://piazza.com) (Q&A forum)
-* this website is for convenient access to the course information
+* [this course website]({{site.url}}{{ site.baseurl }}) is for convenient access to the course information
+
 
 You will also submit your work through Google Forms or Qualtrics links - they will be posted via Gauchospace.
 

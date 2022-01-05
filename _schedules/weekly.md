@@ -35,7 +35,7 @@ schedule:
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
-        location: Lina / Rachel
+        location: Lina, Rachel
       - name: Office Hours
         start: 2:00 PM
         end: 4:30 PM
@@ -61,25 +61,25 @@ schedule:
       - name: Office Hours
         start: 5:00 PM
         end: 6:00 PM
-        location: Saikumar / Nicholas
+        location: Saikumar, Nicholas
   - name: Wednesday
     events:
       - name: Section
         start: 09:00 AM
         end: 09:50 AM
-        location: Arthur / Nicholas
+        location: Arthur, Nicholas
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
-        location: Arthur / Justin / Nicholas
+        location: Arthur, Justin, Nicholas
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
-        location: Sai / Sara / Rachel
+        location: Sai, Sara, Rachel
       - name: Section
         start: 12:00 PM
         end: 12:50 PM
-        location: Shereen / Sara / Rachel
+        location: Shereen, Sara, Rachel
       - name: Section
         start: 1:00 PM
         end: 1:50 PM
@@ -87,7 +87,7 @@ schedule:
       - name: Section
         start: 2:00 PM
         end: 2:50 PM
-        location: Samridhi / Sara
+        location: Samridhi, Sara
       - name: Section
         start: 3:00 PM
         end: 3:50 PM
@@ -95,11 +95,11 @@ schedule:
       - name: Section
         start: 4:00 PM
         end: 4:50 PM
-        location: Pengfei / Nicholas
+        location: Pengfei, Nicholas
       - name: Office Hours
         start: 5:00 PM
         end: 6:00 PM
-        location: Nikunj / Rachel
+        location: Nikunj, Rachel
       - name: Office Hours
         start: 6:30 PM
         end: 9:00 PM

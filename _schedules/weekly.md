@@ -75,7 +75,7 @@ schedule:
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
-        location: Sai, Sara, Rachel
+        location: Sai, Rachel
       - name: Section
         start: 12:00 PM
         end: 12:50 PM
@@ -91,7 +91,7 @@ schedule:
       - name: Section
         start: 3:00 PM
         end: 3:50 PM
-        location: Nikunj
+        location: Nikunj, Sara
       - name: Section
         start: 4:00 PM
         end: 4:50 PM

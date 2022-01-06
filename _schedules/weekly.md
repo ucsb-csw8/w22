@@ -42,8 +42,8 @@ schedule:
         location: Samridhi
       - name: Office Hours
         start: 6:00 PM
-        end: 8:30 PM
-        location: Samridhi
+        end: 8:00 PM
+        location: Arthur
   - name: Tuesday
     events:
       - name: Lecture
@@ -134,6 +134,6 @@ schedule:
         location: Shereen
       - name: Office Hours
         start: 5:00 PM
-        end: 7:30 PM
+        end: 7:00 PM
         location: Arthur
 ---

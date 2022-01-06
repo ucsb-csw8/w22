@@ -52,7 +52,7 @@ schedule:
         location: Zoom
       - name: Office Hours
         start: 11:00 AM
-        end: 1:30 PM
+        end: 1:00 PM
         location: Sara
       - name: Office Hours
         start: 2:00 PM

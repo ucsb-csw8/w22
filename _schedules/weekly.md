@@ -38,7 +38,7 @@ schedule:
         location: Lina, Rachel
       - name: Office Hours
         start: 2:00 PM
-        end: 4:30 PM
+        end: 4:00 PM
         location: Samridhi
       - name: Office Hours
         start: 6:00 PM

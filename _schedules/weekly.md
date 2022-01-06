@@ -71,7 +71,7 @@ schedule:
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
-        location: Arthur, Justin, Nicholas, Sara
+        location: Arthur, Justin, Nicholas
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
@@ -91,7 +91,7 @@ schedule:
       - name: Section
         start: 3:00 PM
         end: 3:50 PM
-        location: Nikunj
+        location: Nikunj, Sara
       - name: Section
         start: 4:00 PM
         end: 4:50 PM

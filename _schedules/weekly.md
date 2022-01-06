@@ -71,11 +71,11 @@ schedule:
       - name: Section
         start: 10:00 AM
         end: 10:50 AM
-        location: Arthur, Justin, Nicholas
+        location: Arthur, Justin, Nicholas, Sara
       - name: Section
         start: 11:00 AM
         end: 11:50 AM
-        location: Sai, Sara, Rachel
+        location: Sai, Rachel
       - name: Section
         start: 12:00 PM
         end: 12:50 PM

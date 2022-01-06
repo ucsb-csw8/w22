@@ -14,8 +14,9 @@ Jan 5
 
 Jan 6
  : 09:30am **Class**{: .label .label-purple }
+ : **➡️**{: .label .label-yellow } Submit **Welcome survey** on Gauchospace
 
-Jan 7
+ Jan 7
 : [](#)
 
 Jan 8

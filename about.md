@@ -62,6 +62,7 @@ We recommend bookmarking the following links:
 * [Piazza](https://piazza.com) (Q&A forum)
 * [this course website]({{site.url}}{{ site.baseurl }}) is for convenient access to the course information
 
+The links to the form to request an extension and to submit anonymous feedback are linked below.
 
 You will also submit your work through Google Forms or Qualtrics links - they will be posted via Gauchospace.
 
@@ -102,6 +103,8 @@ During the course of the term, you can request up to a total of **two (2) 12-hou
 
 [Submit this form to request an extension](https://forms.gle/KDjxnPZYJxYSm3R19) for the PAs, CAs, and/or LAs for 12 hours (your scores will be collected at 9am on Monday, instead of Sunday 9pm). You can also check two boxes (two 12-hour extensions) to get an extension for 1 day (your scores will be collected at 9pm on Monday, instead of Sunday 9pm).
 You need to submit this form **before the Sunday 9pm** deadline.
+
+If your situation is more serious and requires a longer extension, you need to provide the official documentation and complete the steps described in the sectin below. Please, do not contact us without providing documentation (e.g., even the processed tickets to fly home for an emergency can count as documentation).
 
 
 ### Personal / Technology / Health / Living Situation Issues

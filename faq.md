@@ -54,6 +54,9 @@ Yes, the **Wednesday** section time that you are enrolled in is the lab time.
 
 ### How do we check when our lab is?
 
+Related question: 
+* hich class section do I attend?
+
 Check your schedule on [GOLD](https://my.sa.ucsb.edu/gold/login.aspx).
 
 
@@ -69,6 +72,10 @@ We refer to the Wednesday lab section times as _lab sessions_. The _lab activiti
 ---
 
 ## zyBooks
+
+### Is the reading done on zybooks?
+
+Yes, zybooks is our “textbook.”
 
 ### Where do I find the zyBooks code to subscribe to the book?
 
@@ -96,7 +103,7 @@ You can also use the same link to request a two-week free trial of the zyBook su
 
 
 
-### What do the PA, CA and LA mean on the zybook, where are they found? How can we know our progress there? How do I know when they are completed?
+### What do the PA, CA and LA mean on the zybook, where are they found? How do I know when they are completed?
 
 * Participation Activities (PAs) 
 * Challenge Activities (CAs) 
@@ -108,10 +115,39 @@ There's no need to submit the activities anywhere else, just complete them in zy
 * For PAs and CAs, you will see a checkmark to the right of the title for that activity, once the activity has been properly completed. 
 * For LAs, you will see the score for how many tests for correctness of that lab have passed. Once you see 100%, you have effectively completed that lab.
 
-You can also see the **overall completion** of _each_ of the zyBook activities when you are on the main page of the zyBook (the view that lists all chapters and their sections).
+Note that after you complete the PAs, zyBook will remove your answers, which is supposed to help you come back and review.
+
+
+### How can we know our progress on zyBooks? 
+
+You can also see the **overall completion** of _each_ of the zyBook activities when you are on the main page of the zyBook (the view that lists all chapters and their sections), which you can get to by clicking on the main title of the book `CMPSCW 8: Introduction to Computer...` at the top of the page, after `My library`.
 
 ✨ Pro Tip✨ : We recommend spending no more than 2 hours in a row reading through the sections and completing the activities in zyBooks. Your brain will get tired and will need a break. Trust us: even your prof cannot meaningfully work through this material for more than 2 hours, so save yourself some time and allow for at least a 30-minute break between the study sessions.
 
+
+### How many chances do we have for each question on zybooks?
+
+Related questions: 
+* How many attempts do I have to submit zyBook activities? 
+* Do we have unlimited attempts to submit our labs?
+
+You have unlimited attempts. You can also work on the problems after the deadline, but your progress will not count toward your score.
+
+
+
+### Should we wait to work on zybooks during lab?
+No, we recommend getting started on them as soon as you can, since we plan to release them at least a day early, so you can come prepared with questions.
+
+Note that you won't be solving _all_ labs during the lab session time. That time is dedicated to the specific breakout room activities, so you need to complete the rest of the labs on your own time, before the deadline.
+
+
+### Is the work in zyBooks graded for completion or accuracy?
+
+During the lab section, the breakout room activities are graded for completing enough code to pass at least one test. 
+Afterward, just like the rest of the zybook activites, they are graded for accuracy.
+
+### Will we be tested on material in “optional” labs?
+No, the materials from those sections will not be on the main quiz. However, we might include it on the practice quiz.
 
 ---
 
@@ -119,7 +155,7 @@ You can also see the **overall completion** of _each_ of the zyBook activities w
 
 ### Is Piazza used for questions about the material and clarification on the lectures?
 
-Yes, this is our main communication platform. Guidelines for how to use it are in the Syllabus and in the _Posting Guidelines_ note on Piazza itself. See more information in the ["Communication" section](#communication) below.
+Yes, this is our main communication platform. Guidelines for how to use it are in the Syllabus and in the _Posting Guidelines_ note on Piazza itself. See more information in the ["Getting Help"](#getting-help) and the ["Communication" section](#communication) below.
 
 
 ### Is there a code for Piazza?
@@ -138,6 +174,13 @@ Make sure that you create your account using your **@umail.ucsb.edu** address (*
 
 ## Course Components
 
+### Where do I find slides and/or class/lab recordings?
+
+The slides and the recordings are linked on Gauchospace. Look for the playback icon ⏩.
+
+
+
+
 ### Do we have to download python for this class?
 
 Yes. We will spend the first couple of weeks working within zyBooks and then we will ask you to [Download the latest version from python.org](https://www.python.org/).
@@ -146,6 +189,16 @@ Yes. We will spend the first couple of weeks working within zyBooks and then we 
 ### What will the reflection be like and how long do they take?
 
 The reflection usually shouldn't take you more than 30 minutes to complete. The questions will vary each week but there will always be an open-ended question for any feedback/thoughts that you'd like to share. It's a low-stress way to take a look at the past week and the activities for the future week and assess how things are going and what you are learning.
+
+### Where do I find the weekly reflections?
+
+They will normally be posted on Gauchospace on Thursday, around 1pm.
+This quarter, we will administer them as a google form.
+
+
+### Is the reflection graded on completion?
+Yes, as long as you submit it, you will receive credit.
+
 
 
 ### How many quizzes will there be each week? 
@@ -202,19 +255,23 @@ When registering for zyBooks, select the lab section that you plan to attend.
 
 To make sure that you can always get your questions answered, we have multiple ways for you to reach the instructor and our course mentors.
 
-Below are the main ways for you to ask for help (from fastest to slowest response times). Note that we do not check or respond to messages over the weekend, so please plan accordingly.)
+Below are the main ways for you to ask for help (from fastest to slowest response times). _Note that we do not check or respond to messages over the weekend, so please plan accordingly_.
 
 * class time and lab sessions are the dedicated synchronous times when you can (and should!) ask questions.
 
 * Prof. K can stay right after class and can also meet with you by appointment: you can book a meeting through a link posted on the office hours page or send a message to the Instructors on the forum, requesting to meet at a specific time. 
 
-* we have synchronous Zoom office hours _every day Monday through Friday in the mornings, afternoons, and evenings_. 
+* we have [synchronous Zoom office hours]({{site.url}}{{site.baseurl}}/schedule) _every day Monday through Friday in the mornings, afternoons, and evenings_. 
 
 * we have an online Q&A forum, Piazza: post your questions there (you can do so anonymously) and your classmates can help answer it, otherwise, we will try to respond within 36 hours.
     * Please, follow the posted forum guidelines (a pinned post) to make it easier for us to respond. 
     * We cannot quarantee that last-minute posts before a deadline would receive a timely response, so please **start early** and plan your work accordingly.
 
 * we have a fully-anonymous form where you can ask questions or send your suggestions: <https://forms.gle/jobjhJjWXsmcV3pp6>
+
+#### How do I send a direct message to TAs or professor?
+
+Please contact us via Piazza. Read the pinned post there titled _Posting Guidelines_, which describes how to submit a direct message to the Instrutors.
 
 
 #### How to ask for help when you don't know what to ask

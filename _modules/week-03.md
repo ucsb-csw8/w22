@@ -8,7 +8,7 @@ Jan 17
 : [](#)
 
 Jan 18
-: <p class="text-grey-dk-000 mb-0"><em>In-person campus instruction is scheduled to resume</em></p>
+: <p class="text-grey-dk-000 mb-0"><strike><em>In-person campus instruction is scheduled to resume</em></strike></p>
 
  : 09:00am **PA03**{: .label .label-orange }and **CA02**{: .label .label-blue }are expected to be done
  : 09:30am **Class**{: .label .label-purple }

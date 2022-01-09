@@ -4,6 +4,7 @@ topic: Writing reusable, generalizable code (Functions)
 ---
 Jan 31
 : <p class="text-grey-dk-000 mb-0"><em>Deadline to Drop Courses</em></p>
+: <p class="text-grey-dk-000 mb-0"><em>In-person campus instruction is scheduled to resume</em></p>
 
 : [](#)
 

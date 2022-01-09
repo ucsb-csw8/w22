@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Succeed in CSW 8
-nav_exclude: false
+nav_order: 4
 seo:
   type: Course
   name: UCSB CSW 8

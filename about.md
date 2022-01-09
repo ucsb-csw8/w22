@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CSW8 Syllabus
+nav_order: 1
 description: >-
     Course policies and information.
 ---

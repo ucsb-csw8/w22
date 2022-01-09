@@ -21,6 +21,29 @@ baseurl: '/w22' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer last edited timestamp
+# https://pmarsceill.github.io/just-the-docs/docs/configuration/#footer-content
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: false # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/ucsb-csw8/w22" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+# Google Analytics Tracking (optional)
+#ga_tracking: UA-5555555-55
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: light
@@ -36,8 +59,8 @@ aux_links:
     - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=1138'
   Gradescope:
     - 'https://www.gradescope.com/courses/345448'
-  GitHub:
-    - 'https://github.com/ucsb-csw8/w22'
+aux_links_new_tab: true
+
 footer_content: 'Yekaterina Kharitonova &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
@@ -46,6 +69,11 @@ collections:
   modules:
   schedules:
   announcements:
+  # Define a collection named "resource", its documents reside in the "_resource" directory
+  resource:
+#permalink: "/:collection/:path/"
+    permalink: "/:path/"
+    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -69,6 +97,26 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: resource
+    values:
+      layout: minimal
+
+###just_the_docs:
+### # Define which collections are used in just-the-docs
+### collections:
+###   # Reference the "resource" collection
+###   resource:
+###     # Give the collection a name
+###     name: Resource
+####     # Exclude the collection from the navigation
+####     # Supports true or false (default)
+###     nav_exclude: false
+####     # Exclude the collection from the search
+####     # Supports true or false (default)
+###     search_exclude: false
+
 
 compress_html:
   clippings: all

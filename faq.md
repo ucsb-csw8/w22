@@ -1,7 +1,7 @@
 ---
 layout: home
 title: FAQ
-nav_exclude: false
+nav_order: 2
 seo:
   type: Course
   name: Frequently Asked Questions (FAQ) in UCSB CSW 8
@@ -212,7 +212,7 @@ Since we do not offer any make-up quizzes/assignments, the [Syllabus]({{site.url
 
 In cases of **_documented_ emergency**, please, email _directly_ to the professor and provide the documentation that shows your name, the reason, and the date of the incident. 
 
-See the [Due Dates](#due-dates) section below for more information about the zyBooks activities.
+See the [Due Dates](#due-dates) section below for more information about the extension for the zyBooks activities.
 
 
 
@@ -274,11 +274,14 @@ Below are the main ways for you to ask for help (from fastest to slowest respons
 Please contact us via Piazza. Read the pinned post there titled _Posting Guidelines_, which describes how to submit a direct message to the Instrutors.
 
 
-#### How to ask for help when you don't know what to ask
+#### "Help! I'm lost!" - How to ask for help when you don't know what to ask
 
-Sometimes, it can be difficult to formulate a question if you are not sure of what's confusing you. In those cases, go ahead and ask "_Can you please show another example of X?_", where X is something that you are not fully understanding or would like to see explained again. For example, you might ask something like "Can you please show an example of how to use a `for` loop with a `range`?"
+Sometimes, it can be difficult to formulate a question if you are not sure of what's confusing you. 
 
-The idea here is that by working through an example, you might be able to catch what's confusing you and ask a follow-up or a clarifying question, or the example itself will be sufficient to help you feel more comfortable with this concept. After the example, see if you can vary the condition to see how well you are able to follow. For instance, after seeing an example for your initial question, you can see if you can now write a `for` loop using the `range` to generate odd numbers or even numbers that start at 10, etc.
+In cases when you are not sure what to ask, go ahead and ask "_Can you please show another example of X?_", where X is something that you are not fully understanding or would like to see explained again. For example, you might ask something like "Can you please show an example of how to use a `for` loop with a `range`?"
+
+The idea here is that by working through an example, you might be able to catch what's confusing you and ask a follow-up or a clarifying question. 
+Hopefully, the example itself will be sufficient to help you feel more comfortable with this concept. After seeing the example, try to vary the condition to see how well you are able to follow the explanation. For instance, after seeing an example for your initial question, modify the result to check if you can now write a `for` loop using the `range` to generate a sequence of odd numbers, of even numbers, of even numbers that start at 10, etc.
 
 See additional notes in the ["How to Succeed in CSW 8"]({{site.url}}/{{site.baseurl}}/success) resource on how to get/ask for help.
 

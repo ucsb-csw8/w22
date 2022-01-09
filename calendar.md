@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Topics and due dates
+nav_order: 5
 description: Listing of course modules and topics.
 ---
 

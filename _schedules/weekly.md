@@ -35,7 +35,7 @@ schedule:
       - name: Office Hours
         start: 10:00 AM
         end: 11:00 AM
-        location, Justin, Lina 
+        location: Justin, Lina 
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM

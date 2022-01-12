@@ -12,6 +12,8 @@ seo:
 
 ## ⌨️  Keyboard Symbols on the Top Row
 
+From left to right:
+
 | Symbol | Common Name in CS | Other Names |
 |---|-----|----------------------|
 | `~` | Tilde | |
@@ -34,16 +36,18 @@ seo:
 
 ## ⌨️  Keyboard Symbols on the Right Side of the Keyboard
 
+From top to bottom:
+
 | Symbol | Common Name in CS | Other Names |
 |---|-----|----------------------|
 | `{` | Open Brace  | Open Curly Bracket |
 | `}` | Close Brace | Close Curly Bracket |
-| `{` | } Curly Brackets | Braces |
+| `{ }` |  Curly Brackets | Braces |
 | `[` | Open Square Bracket | |
 | `]` | Close Square Bracket | |
-| `[` | ] Square Brackets | Brackets |
+| `[ ]` |  Square Brackets | Brackets |
 | `|` | Vertical Pipe | Pipe |
-| `\` | Back Slash | backward slash |
+| `\` | [Back Slash](https://sites.cs.ucsb.edu/~pconrad/topics/BackslashVsForwardSlash/) | backward slash |
 | `:` | Colon | |
 | `;` | Semicolon | |
 | `"` | double quotes | Quotation Mark |
@@ -54,7 +58,7 @@ seo:
 | `<` | Less Than | left angle bracket |
 | `>` | Greater Than | right angle bracket |
 | `.` | Period | decimal, dot, full stop |
-| `/` | Slash (Forward Slash) | Fraction slash, Solidus, Virgule |
+| `/` | Slash ([Forward Slash](https://sites.cs.ucsb.edu/~pconrad/topics/BackslashVsForwardSlash/)) | Fraction slash, Solidus, Virgule |
 | `?` | Question Mark | Eroteme |
 
 ## 💻 Other Symbols

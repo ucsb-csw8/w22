@@ -55,7 +55,7 @@ Yes, the **Wednesday** section time that you are enrolled in is the lab time.
 ### How do we check when our lab is?
 
 Related question: 
-* hich class section do I attend?
+* which class section do I attend?
 
 Check your schedule on [GOLD](https://my.sa.ucsb.edu/gold/login.aspx).
 
@@ -68,6 +68,16 @@ Yes, you are welcome to attend whichever lab section works with your schedule. N
 ### Are lab activities and lab sessions not the same thing?
 
 We refer to the Wednesday lab section times as _lab sessions_. The _lab activities_ (LAs) that you complete in zyBooks are different from the session times, since they refer to the lab assignments posted in zyBooks.
+
+
+### What is the "Wednesday lab participation" score in gradebook?
+
+Related question: 
+* What does "Lab Participation" refer to on the [schedule]({{ site.url }}{{ site.baseurl }}/calendar)?
+
+This grade item is supposed to capture your participation during the lab session. We expect that you will be working on the breakout room activities during the labs, and we expect that before the lab sessions are over you will make enough progress to **pass _at least one lab test_ in order to receive full credit for your participation**. Remember to "Submit" your code in order to see how many and which tests are passing.
+
+Note that you do not need to completely finish the breakout room lab on Wednesday: it needs to be completed and be correct before the hard deadline the week after the labs for that week are released.
 
 ---
 
@@ -208,7 +218,9 @@ There will be at least one practice quiz, which doesn't count toward your grade 
 
 ### I missed a quiz/an in-class activity/a deadline. What do I do?
 
-Since we do not offer any make-up quizzes/assignments, the [Syllabus]({{site.url}}/{{site.baseurl}}/about) outlines our lowest quiz score drop policy to account for any unexpected situations. Please, don't contact us about it unless you have a **_documented_ emergency**.
+Since we do not offer any make-up quizzes/assignments, the [Syllabus]({{site.url}}/{{site.baseurl}}/about) outlines our lowest quiz score drop policy to account for any unexpected situations. In those cases, nothing can be done apart from simply using the "drop the lowest grades" option, which is applied automatically in the Gauchospace gradebook.
+
+Please, don't contact us about it unless you have a **_documented_ emergency** or a **documented, official exception paperwork** (e.g., a letter from your sports coach with the tournament dates). For the university-endored exception, post a direct note to the _Instructors_ on the forum.
 
 In cases of **_documented_ emergency**, please, email _directly_ to the professor and provide the documentation that shows your name, the reason, and the date of the incident. 
 

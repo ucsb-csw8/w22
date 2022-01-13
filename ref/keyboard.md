@@ -65,10 +65,13 @@ From top to bottom:
 
 | Symbol | Common Name in CS | Other Names |
 |---|-----|----------------------|
-| `...` | Ellipsis ||
+| `...` | [Ellipsis](https://en.wikipedia.org/wiki/Ellipsis) | "dot dot dot" |
 | `>>>` | a Python prompt | (triple) angled brackets, chevron |
 | `≠` | "not equal" sign, inequality Written as `!=` in Python ||
 | `≈` | "approximately" symbol ||
+
+
+Whenever are talk about **_indentation_**, we are referring to the offset that is created using either the `Tab` key (on the right side of the keyboard) or to the sequence of spaces created using the spacebar (the longest key on the bottom of the keyboard).
 
 ---
 

@@ -14,7 +14,8 @@ Dear all,
 
 Starting this week, labs instructions will be providing you with the specifications for the **functions** to implement as well as giving you guidelines on what to include as part of **your program**.  
 
-**The program** (sometimes referred to as  "_your program_" or the "_main program_") usually needs to use/_call_ the functions that you defined at the start of the file. If your function will have one or more _parameter_, then you will need the `input()` function inside of your main program: the values that you get from the user are going to be passed as _arguments_ from your programs into the function.
+**The program** (sometimes referred to as  "_your program_" or the "_main program_") usually needs to use/_call_ the functions that you defined at the start of the file. 
+If your function has one or more _parameter_, then you will need to call the `input()` function _inside of your main program_: the values that you get from the user are going to be passed as _arguments_ from your program into the function through a _function call_.
 
 ## Sample Lab Instructions
 
@@ -28,12 +29,16 @@ Let's deconstruct a sample lab:
 > * use the collected input when calling the function
 > * format the printing of the result (using the `f-string`) to keep your output to two decimal places
 
+> ### Instructions
 >  An Olympic-size swimming pool is used in the Olympic Games, where the race course is 50 meters (164.0 ft) in length.
 >  In swimming, a lap is one length in distance. By definition, a lap means a complete trip around a race track, in swimming, the pool is the race track. Therefore if you swim from one end to the other, you’ve completed the track and thus you’ve completed one lap or one length. (Source: [What Is A Lap In Swimming? Lap Vs Length](https://swimcompetitive.com/swimming-guides/what-is-a-lap-in-swimming))
 
 >  Write the function `meters_to_laps()` that takes a number of meters as an argument and returns the number of laps. 
 
-> Complete the program to output the number of laps. Output each floating-point value with two digits after the decimal point, which can be achieved as follows: `print(f'{your_value:.2f}')`
+> Complete the program to output the number of laps. Output each floating-point value with two digits after the decimal point, which can be achieved as follows: 
+```py
+print(f'{your_value:.2f}')
+```
 
 > ### Test your code
 > If the input is:
@@ -54,7 +59,7 @@ Let's deconstruct a sample lab:
 1.60
 ```
 > To clarify, you must first define the following _function_:
-> ```def meters_to_laps(length)``` that takes in length (a floating-point argument representing the distance in meters) and returns the number of laps this distance corresponds to (also a float, since we are formatting the output to two decimal spaces). 
+> ```def meters_to_laps()``` that takes in length (a floating-point argument representing the distance in meters) and returns the number of laps this distance corresponds to (also a float, since we are formatting the output to two decimal spaces). 
 > Then, in your _main program_, you are supposed to take user input and call the function with these values, and print the results with the specified precision.
 
 > _Hint: remember how to convert user input to a floating-point number?_
@@ -66,13 +71,17 @@ Let's deconstruct a sample lab:
 ## Reading through the lab
 
 The start of the lab typically outlines our learning objectives, which are the goals/concepts that we are practicing in this lab. 
-It helps to locate those concepts in the book and re-read it or reference it as you are solving the lab.
+It helps to locate those concepts in the book that you might want to re-read or reference as you are solving the lab.
 
-🌟 **All labs assume that you are following the suggested [Problem-solving Workflow]({{ site.url }}{{ site.baseurl }}/success#problem-solving-workflow) guidelines that we ask for you to use.**
+🌟 **All labs assume that you are following the suggested [Problem-solving Workflow]({{ site.url }}{{ site.baseurl }}/success#problem-solving-workflow) guidelines that we ask for you to use.** (Make sure to arrange your windows to make it easier for you to keep track of the instructions and your solution.)
 
 The lab might have some introduction to explain the context for the problem and to provide important information. 
 In this example, the intro tells us about the length of the race course, which is the value that we will need to use in our solution.
-Usually, you _need to read_ the first part of the instructions (intro) in order to know how to solve the problem and write the body of the function. Read and follow **_all_** instructions carefully.
+Usually, you _need to read_ the first part of the instructions (intro) in order to know how to solve the problem and write the body of the function. 
+* Pause.
+* Read and follow **_all_** instructions carefully.
+* Manually work through the example and the test input/output to verify that you understand what is being asked _conceptually_.
+* As described in the [Problem-solving Workflow]({{ site.url }}{{ site.baseurl }}/success#problem-solving-workflow), develop the pseudocode of the solution, before proceeding.
 
 As you can see, the instructions are asking us to
 1. define the requested function
@@ -101,6 +110,14 @@ Just from these instructions we can get the following function elements:
 * the docstring (function documentation)
 * the return value
 
+We can copy/paste our skeleton function template and begin updating its components:
+```py
+def ___( _ ):
+    """ Documentation """
+    # function body
+    return _
+```
+
 The code could roughly be as follows (we'll leave the naming of the argument up to you and will replace it with the [ellipsis]({{ site.url }}{{ site.baseurl }}/ref/keyboard#-other-symbols):
 ```py
 def meters_to_laps(...):
@@ -116,7 +133,7 @@ _Note that we can add the types of the arguments in the function docstring by lo
 
 ### The main program
 
-📄 **The program** (i.e., "your program"/"main program") will need to get the user input and call the function to produce the requested output.
+📄 **The program** (i.e., "your program" or "main program") will need to get the user input and call the function to produce the requested output.
 The main program has to be implemented _inside_ the `if __name__ == "__main__":` block. Your code in this block **must** call the function that you defined _above it_ (remember: only the _function definitions_ and `import` statements should be placed outside of this block).
 
 In the lab instructions, after we implemented the function, we are supposed to:
@@ -145,18 +162,23 @@ if __name__ == "__main__":
 ```
 
 ## Code template
-In general, your code for the labs that ask you to write a program and one or more function would follow the following template.
+In general, your code for the labs that ask you to write a program and one or more function would follow the template shown below.
 
 You can copy/paste the template below, just remember to update the comments.
 ```py
 def function_name(param1, param2, ...):
+    """ Quick description of the function goal.
+    Explanation of the parameters and their types.
+    Returns (or Prints)...
+    """
+
     res = ... # some calculation here to get the final result
     # check the instructions if you need to print something
     return res # do not forget the return :)  
 
 if __name__ == "__main__":
     var = input() # reading as many inputs as we need
-    # program body; loops, if/else - see the instructions
+    # program body - see the instructions
     result = function_name(var, ..) # a function call, remember to store the result!
     print("This is the final output", result) # see instructions for output
     print(f"This is the final output {result:.2f}") # some cool format for floats :)
@@ -180,6 +202,6 @@ Have a productive week!
 #### Acknowledgements
 The lab instructions are based on a sample zyBooks lab.
 {: .fs-3 }
-Specials thanks to Liubov Kurafeeva for contributing the code template.
+Specials thanks to Liubov Kurafeeva for contributing the initial code template.
 {: .fs-3 }
 

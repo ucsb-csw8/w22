@@ -114,8 +114,18 @@ Our goals in this section are to
 * introduce elements of good programming style: documentation, variable names
 * describe the tips to keep in mind for the programming workflow
 
+## Arrange things
+We recommend arranging things for efficiency – when using a programming language, ensuring that the correct windows are simultaneously visible is a huge help!
+
+Try arranging and resizing your windows so that you can see both the browser (these instructions) and your code window/text editor side-by-side. 
+_Note_: To resize a window, you can double-click the top of the window and then move your cursor to the edge (until it changes its shape) and click and drag the window.
+* It’s amazing how much more efficient you can be when you don’t need to click to different windows!
+* For the artistically or cooking-show inclined: [mise en place](https://en.wikipedia.org/wiki/Mise_en_place) matters!
+
 ## Develop the pseudocode
-We highly encourage you to adopt an **iterative program development**, where you break up the problem into smaller parts, and then develop and test each part individually, iteratively improving and refining it. For instance, if you need to count how many students from each class level are on the roster stored as a CSV, the first step of the iterative program development is to test that you can open and close the file, and read/print its contents. (See the note below, in the Workflow section, regarding working with large files). The next step is to figure out and note down what kind of processing you need to do, what values you need to retrieve, where to store what result, etc. _Write down these notes as instructions that someone else can follow._
+We highly encourage you to adopt an **iterative program development**, where you break up the problem into smaller parts, and then develop and test each part individually, iteratively improving and refining it. 
+
+For instance, if you need to count how many students from each class level are on the roster stored as a CSV, the first step of the iterative program development is to test that you can open and close the file, and read/print its contents. (See the note below, in the Workflow section, regarding working with large files). The next step is to figure out and note down what kind of processing you need to do, what values you need to retrieve, where to store what result, etc. _Write down these notes as instructions that someone else can follow._
 
 A set of instructions that we might later translate into code can be represented by **pseudocode**: it is not real code but provides the steps that can then be converted into any programming language.
 

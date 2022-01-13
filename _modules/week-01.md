@@ -11,6 +11,7 @@ Jan 4
 Jan 5
 : **LA**{: .label .label-green } First lab sessions 🎊
 : **➡️**{: .label .label-yellow } Post team info on Piazza
+: **lab participation**{: .label .label-yellow } is captured using the breakout room lab score
 
 Jan 6
  : 09:30am **Class**{: .label .label-purple }

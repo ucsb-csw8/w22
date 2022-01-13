@@ -11,6 +11,7 @@ Jan 11
 
 Jan 12
  : 09:00am **LA01**{: .label .label-green }are expected to be done
+ : 5pm **lab participation**{: .label .label-yellow } is captured using the breakout room lab score
 
 
 Jan 13

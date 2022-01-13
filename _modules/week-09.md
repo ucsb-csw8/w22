@@ -11,6 +11,7 @@ Mar 1
 
 Mar 2
  : 09:00am **LA08**{: .label .label-green }are expected to be done
+ : 5pm **lab participation**{: .label .label-yellow } is captured using the breakout room lab score
 
 
 Mar 3

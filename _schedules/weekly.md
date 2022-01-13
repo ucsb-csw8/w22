@@ -37,6 +37,10 @@ schedule:
         end: 12:00 PM
         location: Lina, Rachel
       - name: Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Nikunj
+      - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
         location: Samridhi
@@ -118,10 +122,6 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Shereen
-      - name: Office Hours
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Nikunj
       - name: Office Hours
         start: 5:00 PM
         end: 6:00 PM

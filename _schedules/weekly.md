@@ -30,8 +30,12 @@ schedule:
     events:
       - name: Office Hours
         start: 9:00 AM
-        end: 11:00 AM
+        end: 10:00 AM
         location: Justin
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Justin, Lina 
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM

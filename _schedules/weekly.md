@@ -59,6 +59,10 @@ schedule:
         end: 1:00 PM
         location: Sara
       - name: Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Shereen
+      - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
         location: Pengfei
@@ -118,10 +122,6 @@ schedule:
         start: 12:00 PM
         end: 2:00 PM
         location: Liu
-      - name: Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
-        location: Shereen
       - name: Office Hours
         start: 5:00 PM
         end: 6:00 PM

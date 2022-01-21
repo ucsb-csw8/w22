@@ -180,6 +180,31 @@ _Note: As was mentioned in the Welcome Email sent from Gauchospace ("Warm welcom
 
 Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
 
+You might need to go through the activation link in the email sent to you by Gradescope/Piazza.
+
+If you have multiple accounts on Piazza with different email addresses, you can add them to you account to merge the accounts:
+* (using the browser on the computer), Click the cogwheel in the upper-right corner of the window (to the right of your name)
+* select “[Account/Email Settings](https://piazza.com/account_settings)”
+* add your email under “Other emails”.
+
+---
+
+## Gradescope
+
+### How many chances do we have to submit on Gradescope?
+
+Related questions: 
+* Do we have unlimited attempts to submit our labs on Gradescope?
+
+Yes, you have unlimited attempts _before the deadline_. You won't be able to submit to Gradescope after the deadline has passed.
+
+We recommend to submit your code to Gradescope periodically to backup your submissions.
+
+
+### If we submit our labs onto Gradescope multiple times, will the newest version be the one graded?
+
+Yes, your latest submission will be the one that’s used for grading, unless you activate a different submission.
+
 ---
 
 ## Course Components

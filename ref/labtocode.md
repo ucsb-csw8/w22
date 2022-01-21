@@ -115,7 +115,7 @@ We can copy/paste our skeleton function template and begin updating its componen
 def ___( _ ):
     """ Documentation """
     # function body
-    return _
+    return _ # or print (check instructions)
 ```
 
 The code could roughly be as follows (we'll leave the naming of the argument up to you and will replace it with the [ellipsis]({{ site.url }}{{ site.baseurl }}/ref/keyboard#-other-symbols):

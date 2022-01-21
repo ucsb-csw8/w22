@@ -13,9 +13,11 @@ seo:
 By the end of CSW 8, students will have discussed, applied, and praciced working with the following course goals.
 
 * Foundational programming concepts:
-    - **Memory concepts**: variables, primitive vs. reference variables, name, type, value, assignment statements, scope of variables
-    - **Control structures**: if/else, for and while loops
-    - **Basic data structures**: lists, tuples, dictionaries, namedtutples
+    - **Memory concepts**: variables, name, type, value, assignment statements, scope of variables, primitive vs. reference variables
+    - **Primitive types**: `int`, `float`, `str`, `bool`
+    - **Basic data structures**: lists, tuples, dictionaries, namedtutples, sets
+    - **Control structures**: `if`/`else`/`elif`, `for` and `while` loops, nested loops
+    - **Operations on Lists and Other Data Structures in Python**: index vs. value, finding sum, min, max, average, count of elements matching some condition, making a new structure of elements containing only those that match some condition.
     - **Functions**: function call vs. function definition, formal vs. actual parameters (arguments), recursive functions
     - **Input/output concepts**: Writing to the terminal, reading from the keyboard, reading and writing to files, neatly formatting output
 * Problem solving strategies and code design:
@@ -28,3 +30,5 @@ By the end of CSW 8, students will have discussed, applied, and praciced working
     - using print statements to localize program bugs
 * Use an IDE to write and execute code.
 * Write code that other people can read and understand.
+* Explore the relevance of programming through real-world examples.
+

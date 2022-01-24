@@ -26,6 +26,6 @@ The link to this webpage is [{{site.url}}{{ site.baseurl }}]({{site.url}}{{ site
 Use links at the top of this page to access the main course resources (most were mentioned in the [Syllabus]({{site.url}}{{ site.baseurl }}/about/#course-tools)).
 
 <!--Read the ["Getting Started" announcement]({{site.url}}{{ site.baseurl }}/announcements) to know what to do before the first day of class.-->
-[Jump to the current week (Week 3)]({{ site.url }}{{ site.baseurl }}/calendar#week-3){: .btn .btn-blue }
+[Jump to the current week (Week 4)]({{ site.url }}{{ site.baseurl }}/calendar#week-4){: .btn .btn-blue }
 
 This site is provided just as a convenience for quick access and searching: Gauchospace is the main hub for all course-related links.

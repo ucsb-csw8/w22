@@ -35,7 +35,7 @@ schedule:
       - name: Office Hours
         start: 10:00 AM
         end: 11:00 AM
-        location: Justin, Lina 
+        location: Justin
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
@@ -48,6 +48,10 @@ schedule:
         start: 2:00 PM
         end: 4:00 PM
         location: Samridhi
+      - name: Office Hours
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Lina
       - name: Office Hours
         start: 6:00 PM
         end: 8:00 PM

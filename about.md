@@ -116,6 +116,8 @@ An extension due to an emergency must be based on an **official documentation** 
 ### Collaboration
 You can help each other by engaging in discussion on the official course Q&A forum. **Do not share your code from _any_ course assignments (especially quizzes, zyBook activities and the project) on _any_ online site or with anyone else**. ⚠️  Doing so, will be considered a case of academic dishonesty and can result in failing the course. 
 
+<!--<a src="https://tinybuddha.com/fun-and-inspiring/a-single-lie/">-->
+![A single lie discovered is enough to create doubt in every truth expressed.](https://cdn.tinybuddha.com/wp-content/uploads/2022/01/A-single-lie-600x600.png){: width="300px" style="float:left; padding-right:10px" }
 Please complete your own work and keep it to yourself. You may work on some of the LAs with a partner _only if it is indicated on the assignment_.  Even if you are working with a partner you should each substantially contribute, and develop/submit each in your own zyLab windows (we can see your progress history). **Having others code assignments for you, or copy-pasting code from elsewhere, IS NOT ACCEPTABLE and is a violation of the university policies.** 
 Penalties for cheating are severe — they range from a zero grade for the assignment up to dismissal from the University, for a second offense. 
 Students are responsible for understanding and abiding by UCSB's academic integrity policies (<https://studentconduct.sa.ucsb.edu/academic-integrity>).

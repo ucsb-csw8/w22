@@ -4,7 +4,8 @@ topic: Writing reusable, generalizable code (Functions)
 ---
 Jan 31
 : <p class="text-grey-dk-000 mb-0"><em>Deadline to Drop Courses</em></p>
-: <p class="text-grey-dk-000 mb-0"><em>In-person campus instruction is scheduled to resume</em></p>
+: <p class="text-grey-dk-000 mb-0"><em>In-person campus instruction is scheduled to resume (CSW 8 stays online)</em></p>
+: <p class="text-blue-dk-000 mb-0"><em>🎊 Happy Chinese New Year! 🎊</em></p>
 
 : [](#)
 

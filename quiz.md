@@ -27,19 +27,37 @@ Below are a few tips and information to help you do well.
 
 ## Taking a Quiz
 
-We highly recommend using a computer for doing the work in this class, especially, during quizzes.
+### Preparing for the quiz
+Practice by solving the weekly quizzes. 
+
+Focus on writing your own code from scratch.
+* For the examples in the textbook, try to write the solution yourself, without looking at the solution, and then compare with the one that is provided in the textbook.
+* For each Figure that shows the code, run it yourself or try to write that code yourself.
+* If the instructor note shows an example or asks a question, work through the example, check the output, answer the question and check the result.
+
+Since quizzes are open-book, you can use zyBooks as well as your notes to come up with your own answers. We recommend using handwritten notes, so that you do not need to have yet another open window during the quiz.
+
+
+### Quiz Logistics
+We highly recommend using a computer (not a phone or a tablet) for doing the work in this class, especially, during quizzes.
 
 Before the start of the class, open the zyBooks and have your notes ready for reference.
 
 Have Gauchospace and Gradescope sites open side-by-side. We recommend opening them in two separate windows, so that you can see both at the same time.
 
-Before opening a quiz on Gauchospace, note the end time and the quiz duration.
+Before opening a quiz on Gauchospace, note the end time and the quiz duration. 
+* On Gauchospace, the sidebar on the right should show you the total number of questions as well as the remaining time.
+* _Set your own timer, which should go off 3-5 minutes before the official timer ends._
 
-On Gauchospace, the sidebar on the right should show you the total number of questions as well as the remaining time.
 
-All quizzes will always start on Gauchospace. Some quizzes will have a question (usually, the last question of the quiz) that will redirect you to the appropriate version on Gradescope. If that's the case, carefully note the version name that's at the top of the question and open up the correct version on Gradescope.
+All quizzes will always start on Gauchospace. Some quizzes will have a question (usually, the last question of the quiz) that will redirect you to the appropriate version on Gradescope. If that's the case, carefully note the version name that's at the top of the question and **open up the correct version on Gradescope**.
 
-Since the quizzes are open-book, you can use zyBooks as well as your notes to come up with your own answers.
+* Even when submitting code on Gradescope, no need to type it there: you can develop/test it in zyBooks/IDLE
+* Copy/paste the instructions / a template
+* Make sure to periodically save your solution on Gradescope.
+
+
+Use your notes to come up with your own answers.
 
 We encourage you to write and test your code in an editor (in zyBooks or in an IDE) to verify that your code behaves as expected. Feel free to develop it in Gradescope, where you can see the timer, but if time allows, run your code before your final submission to ensure that you don't have any syntax errors.
 

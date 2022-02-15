@@ -18,6 +18,7 @@ Additionally, at the end of each week, you are asked to reflect on your learning
 
 In order to ensure that you are rewarded for participating during the synchronous, we will be collecting your progress on the breakout room activities and participation in the in-class activities.
 
+[Jump to the current week (Week 7)]({{ site.url }}{{ site.baseurl }}/calendar#week-7){: .btn .btn-blue }
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}

@@ -159,6 +159,15 @@ Afterward, just like the rest of the zybook activites, they are graded for accur
 ### Will we be tested on material in “optional” labs?
 No, the materials from those sections will not be on the main quiz. However, we might include it on the practice quiz.
 
+
+### How do I turn on syntax highlighting in zyLabs?
+Related question: 
+* how do I get color-coding in zyLabs?
+
+In accessibility mode, zyBook replaces the rich text code editor with a plain text editor to make the text be more compatible with common screen readers.
+
+You can turn on/off the accessibility feature on the "My subscription" tab of the zyBook.
+
 ---
 
 ## Accounts
@@ -261,7 +270,9 @@ This course has a consistent weekly pattern to help you manage your workload and
 
 Tuesdays and Wednesdays are when the zyBooks activities are expected to be completed. We recommend treating them as **hard deadlines** and finishing your work in zyBooks **_before_** those recommended times. In-class quizzes and activities will assume that you have completed the materials. However, in order to provide extra flexibility, we will collect the scores for the respective activities on **Sundays at 9pm**.
 
-If you know in advance that you will not be able to complete the activities before Sunday, you can submit a request for an extension. See the [Syllabus]({{site.url}}/{{site.baseurl}}/about) for more information. 
+If you know in advance that you will not be able to complete the activities before Sunday, you can submit a request for an extension. See the [Syllabus]({{site.url}}/{{site.baseurl}}/about) for more information and for the link to the form. 
+
+
 
 ### Quizzes
 

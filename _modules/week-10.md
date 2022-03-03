@@ -22,7 +22,6 @@ Mar 10
 Mar 11
  : _Async activities: continue to work on CAs and LAs: try to finish them._
  : _Begin reading next week’s chapter and work through its PAs and CAs._
- : _Finish the Weekly reflection._
 
 Mar 12
  : _Async activities_ ☝️ 

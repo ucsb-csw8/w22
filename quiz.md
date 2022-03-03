@@ -149,3 +149,30 @@ Then, we can make sure that whatever adjustments we make to grades are made equi
 
 We hope you can see why that’s important, and we appreciate your cooperation.
 
+
+---
+
+# Make-up / Replacement Quizzes
+
+In Week 7, Prof. K announced during the class that _**in addition to**_ the original lowest dropped quiz, students will have an opportunity to _optionally_ replace **two** of their quiz grades with the make-up quizzes.
+
+* At the end of the quarter, during the CSW 8 “final exam” slot, you’ll have an opportunity to take these two quizzes.
+* Originally intended for those with valid exceptions, they are open for everyone else.
+
+This opportunity effectively means that there will be **a total of 3 dropped quizzes**:
+* Taking these quizzes will NOT harm your quiz score in any way
+* If you are hoping to improve your Quiz scores, then if you take the quiz (just one or both) and score higher on the replacement quizzes, the other lower scores will be dropped. If, for some reason, you score lower, these quizzes will not affect your Quiz score, since they will be the ones that will be dropped.
+* If you are happy with your Quiz scores, you do not need to take these quizzes; if you don't take them, their score will be 0, and even if you do take it and score lower, those scores will be part of the 3 lowest scores that will be dropped.
+
+## What is covered
+* All material covered in lecture, homeworks and labs
+* Use zyBook challenge activities and previous practice/reading/in-class quizzes to practice and review the concepts
+
+## Quiz structure
+Quiz logistics guidelines are the same as above. 
+* As usual, both quizzes will **start on Gauchospace** and will have a specified time limit.
+* One of the quizzes will be a multiple-choice / short answer quiz that will be taken entirely on _Gauchospace_.
+* The other quiz will be based on a randomly-assigned version _provided by Gauchospace_ and will need to be submitted on _Gradescope_.
+
+If you have additional questions, then post them on Piazza with a title "Replacement Quiz" and link to this page to let us know that you've read these guidelines.
+

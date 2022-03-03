@@ -28,6 +28,7 @@ Mar 12
  : _Async activities_ ☝️ 
 
 Mar 13
- : **09:00pm** ⏰  **DUE:**{: .label .label-red }**Reflection** + **PA10**{: .label .label-orange }+**CA09**{: .label .label-blue }+**LA09**{: .label .label-green } 
+ : **09:00pm** ⏰  **DUE:**{: .label .label-red } **PA10**{: .label .label-orange }+**CA09**{: .label .label-blue }+**LA09**{: .label .label-green } 
+ : _Note: there is NO reflection for this week. There is a final (anonymous) reflection as part of the final project._
  : _By the end of Sunday: Ideally, you should be finished with LAs for Chapter 10, which are used in the **final project**._
 

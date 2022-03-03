@@ -157,9 +157,13 @@ We hope you can see why that’s important, and we appreciate your cooperation.
 In Week 7, Prof. K announced during the class that _**in addition to**_ the original lowest dropped quiz, students will have an opportunity to _optionally_ replace **two** of their quiz grades with the make-up quizzes.
 
 * At the end of the quarter, during the CSW 8 “final exam” slot, you’ll have an opportunity to take these two quizzes.
-* Originally intended for those with valid exceptions, they are open for everyone else.
+  * as shown on GOLD, the reserved exam slot is on **Tue, March 15, 8:00 AM - 11:00 AM**
+  * these quizzes are **not** a final exam; they are not mandatory.
+  * you can take these quizzes at your convenience at any point within this 3-hour slot. 
+  * Do not start the quizzes too close to the ending quiz time: you might not have enough time to finish the quiz, since the quizzes will be automatically submitted / the submission will close at the time listed above.
 
 This opportunity effectively means that there will be **a total of 3 dropped quizzes**:
+* Originally intended for those with valid exceptions, they are open for everyone else.
 * Taking these quizzes will NOT harm your quiz score in any way
 * If you are hoping to improve your Quiz scores, then if you take the quiz (just one or both) and score higher on the replacement quizzes, the other lower scores will be dropped. If, for some reason, you score lower, these quizzes will not affect your Quiz score, since they will be the ones that will be dropped.
 * If you are happy with your Quiz scores, you do not need to take these quizzes; if you don't take them, their score will be 0, and even if you do take it and score lower, those scores will be part of the 3 lowest scores that will be dropped.

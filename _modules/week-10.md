@@ -11,13 +11,14 @@ Mar 8
 
  : 09:00am **PA10**{: .label .label-orange }and **CA09**{: .label .label-blue }_are expected to be done_
  : 09:30am **Class**{: .label .label-purple }
+ : **09:00pm** ⏰  **DUE:**{: .label .label-red } The deadline for _only_ the **LA 8.10 - 8.14 zyLabs** has been extended to Tue, March 8 at 9PM (see the Instructor Announcement on Gauchospace).
 
 Mar 9
  : 09:00am **LA09**{: .label .label-green }_are expected to be done_
  : **05:00pm** ⏰  **lab participation**{: .label .label-yellow } is captured using the breakout room lab score
 
 Mar 10
- : 09:30am **Class**{: .label .label-purple }
+ : 09:30am **Class**{: .label .label-purple } Final class of the W22 quarter
 
 Mar 11
  : _Async activities: continue to work on CAs and LAs: try to finish them._

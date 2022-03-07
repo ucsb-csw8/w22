@@ -27,6 +27,7 @@ Mar 5
  : _Async activities_ ☝️ 
 
 Mar 6
- : **09:00pm** ⏰  **DUE:**{: .label .label-red }**Reflection** + **PA09**{: .label .label-orange }+**CA08**{: .label .label-blue }+**LA08**{: .label .label-green } 
+ : **09:00pm** ⏰  **DUE:**{: .label .label-red }**Reflection** + **PA09**{: .label .label-orange }+**CA08**{: .label .label-blue }+**LA08**{: .label .label-green }(**LA 8.16 - 8.17** - due in zyBooks)
+ : The deadline for _only_ the **LA 8.10 - 8.14 zyLabs** has been extended to Tue, March 8 at 9PM (see the Instructor Announcement on Gauchospace).
  : _By the end of Sunday: Ideally, you should be finished with PAs for Chapter 10._
 
